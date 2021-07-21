@@ -7,7 +7,7 @@
   I wish became a iOS developer, and I learned swift and Objective - C for this.
   Why I began wished? Because I dream to relocate another country, and a programming attracts me. But I dont have a job's experience.
   
-- # This is my scills: 
+- # This is my skills: 
   Swift, Objective-C, UIkit, Core Graphics, Core Animation, GitHub.
   
 - # My projects:
