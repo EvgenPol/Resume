@@ -11,6 +11,6 @@
   Swift, Objective-C, UIkit, Core Graphics, Core Animation, Autolayout, MVC,  GitHub.
   
 - # My projects:
-  link to my study [project one](https://github.com/EvgenPol/RSLoginScreen), [and two](https://github.com/EvgenPol/RSSchool_T8).
+  link to my latest study [project one](https://github.com/EvgenPol/RSS_Task_9), [and two](https://github.com/EvgenPol/RSSchool_T8).
   
 
