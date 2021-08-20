@@ -8,7 +8,7 @@
   Why I began wished? Because I dream to relocate another country, and a programming attracts me. But I dont have a real job's experience.
   
 - # This is my skills: 
-  Swift, Objective-C, UIkit, Core Graphics, Core Animation, GCD, Autolayout, MVC,  GitHub.
+  Swift, Objective-C, UIkit, Core Graphics, Core Animation, GCD, Autolayout, OOP, MVC,  GitHub.
   
 - # My projects:
   link to my latest study [project one](https://github.com/EvgenPol/RSS_Task_9), [and two](https://github.com/EvgenPol/RSSchool_T8).
