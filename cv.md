@@ -8,6 +8,9 @@
   
 - # This is my skills: 
   Swift, Objective-C, UIkit, AVFoundation, Core Graphics, Core Animation, Core Data, GCD, Autolayout, OOP, HaishinKit, TUSKit, CocoaPods, SPM, Git.
+  
   Architecture: MVC, MVP
+  
   Network: CRUD, JSON
+  
   Patterns: Delegate, Data Source, Observer, Adapter, Builder, Singleton, Factory
